@@ -9,7 +9,11 @@ function App() {
 
     <div>
 
-      <div>Personal Digital Assistants</div>
+      <section class="hero is-primary">
+        <div class="hero-body">
+          <p class="title"> Personal Digital Assistants</p>
+        </div>
+      </section>
 
       <div className='container'>
         <section className='section'>
